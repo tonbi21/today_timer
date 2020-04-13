@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light+Two&display=swap');
+
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+header{
+  margin-bottom: 100px;
+}
+
+h1{
+  background-color: #000;
+  color: #fff;
+  margin: 0;
+  padding: 10px;
+  font-size: 18px;
+}
+
+.date{
+  font-size: 300%;
+  font-family: 'Times New Roman', Times, serif;
+  margin: 60px 0 80px;
+  color: #11a159
+}
+
+.tic{
+  margin: 30px auto;
+}
+
+#timer{
+  font-family: 'Shadows Into Light Two', cursive;
+  font-size: 36px;
+  border: 1px solid #ccc;
+  padding: 50px;
+  margin: 30px auto 80px;
+  background-color: #000;
+  color: #fff;
+  border-radius: 10px;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, .5);
+  max-width: 60%
+}
+
+.btn{
+  width: 45%;
+}
